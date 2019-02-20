@@ -1,5 +1,7 @@
 {
   "name": "mbacam",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
